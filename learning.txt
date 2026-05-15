@@ -1,4 +1,3 @@
-What I have learned so far in this course is how to use Git and GitHub to manage projects and track changes. 
-I have learned how to create repositories ,to create branches,to make commits
-To also collaborate using pull requests. 
-I learned how to clone repositories to my local computer using Git.
+I have learned how to use Git and GitHub for version control.
+ I can clone repositories, create files, commit changes, and push updates to GitHub.
+ I understand how developers collaborate using GitHub.
