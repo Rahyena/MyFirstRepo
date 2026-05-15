@@ -1,4 +1,8 @@
-This is my first repository created as part of a GitHub learning task
+MyFirstRepo
 
-It contains practice files and commits from my coursework.
+
+
+This repository is created for the Week 9 Git and GitHub assignment.
+
+It demonstrates cloning, adding files, committing changes, and pushing to GitHub.
 
