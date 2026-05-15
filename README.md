@@ -2,7 +2,7 @@ MyFirstRepo
 
 
 
-This repository is created for the Week 9 Git and GitHub assignment.
+This is my first repository and GitHub learning task.
 
-It demonstrates cloning, adding files, committing changes, and pushing to GitHub.
+It demonstrates cloning, committing, and pushing changes using Git and GitHub.
 

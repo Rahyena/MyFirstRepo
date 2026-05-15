@@ -1,3 +1,5 @@
+Brief Introduction About Myself
+
 My name is Rahyena.
-This is my introduction for the Week 9 Git and GitHub assignment.
-I am learning how to use Git for version control, including cloning, committing, and pushing changes.
+This is my introduction for the Git and GitHub assignment.
+I am learning how to use Git and GitHub for version control.
