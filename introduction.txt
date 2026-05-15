@@ -1,5 +1,3 @@
-Breif introduction about  myself
-My name is Virginia.
-I am currently learning Git and GitHub as part of my studies in alx pathway.
-I enjoy learning new technical skills and improving my understanding of software development tools.
-I am interested in growing my knowledge in technologyand using these skills in future projects and career opportunities.
+My name is Rahyena.
+This is my introduction for the Week 9 Git and GitHub assignment.
+I am learning how to use Git for version control, including cloning, committing, and pushing changes.
